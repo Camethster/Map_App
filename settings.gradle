@@ -1,2 +1,3 @@
+include ':map_app'
 include ':app'
 rootProject.name = "Hello_World"
